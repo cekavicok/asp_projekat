@@ -1,0 +1,13 @@
+5
+10
+Gordan Vanja Stefan Filip Milivoje
+Gordan Vanja 0.7
+Milivoje Stefan 0.5
+Filip Gordan 0.6
+Gordan Stefan 0.2
+Vanja Stefan 0.3
+Stefan Milivoje 0.48
+Gordan Filip 0.14
+Vanja Milivoje 0.89
+Gordan Milivoje 0.1
+Filip Stefan 0.22
